@@ -16,8 +16,8 @@ public class MoveYoBodyPuebly : MonoBehaviour
         float hori = Input.GetAxisRaw("Horizontal");
         float vert = Input.GetAxisRaw("Vertical");
         Vector2 pos = transform.position;
-        pos.x = pos.x + 1f * hori * Time.deltaTime;
-        pos.y = pos.y + 1f * vert * Time.deltaTime;
+        pos.x = pos.x + 5f * hori * Time.deltaTime;
+        pos.y = pos.y + 5f * vert * Time.deltaTime;
         transform.position = pos;
     }
 }
