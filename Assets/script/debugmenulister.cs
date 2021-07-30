@@ -8,7 +8,7 @@ public class debugmenulister : MonoBehaviour
     // Start is called before the first frame update
     public GameObject textpref;
     List<TextMeshProUGUI> options = new List<TextMeshProUGUI>();
-    string[] filenames;
+    public string[] filenames;
     public int selection = 0;
     public Color32 notselected;
     public Color32 selected;
@@ -19,13 +19,16 @@ public class debugmenulister : MonoBehaviour
     void Start()
     {
         // //int offset = 0;
-	string[] 
-	scenepaths = System.IO.Directory.GetFiles("Assets/Scenes", "*.unity");
-        filenames = new string[scenepaths.Length];
+	// string[] 
+	//     scenepaths = System.IO.Directory.GetFiles
+	//     (System.IO.Path.GetDirectoryName
+	//      (UnityEngine.SceneManagement.SceneManager.GetActiveScene().path),
+	//      "*.unity");
+        // filenames = new string[scenepaths.Length];
         int i;
-        for (i = 0; i < filenames.Length; i++)
-	    filenames[i] = System.IO.Path.GetFileNameWithoutExtension
-	 	(scenepaths[i]);
+        // for (i = 0; i < filenames.Length; i++)
+	//     filenames[i] = System.IO.Path.GetFileNameWithoutExtension
+	//  	(scenepaths[i]);
 	
         for (i = 0; i < filenames.Length; i++)
 	{
