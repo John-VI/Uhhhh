@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 4d2fd80066924a840a49d14cc7fbad54, type: 3}
+    - {fileID: 102900000, guid: 77491be805a4f404d8b03495c4e332ca, type: 3}
+    totalSpriteSurfaceArea: 205392
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 8081349633991729370, guid: 4020838ae8a5bda47a2abac292ba5d3b, type: 3}
+  - {fileID: 5102608702023362459, guid: 4020838ae8a5bda47a2abac292ba5d3b, type: 3}
+  - {fileID: 3565401892052505685, guid: 4020838ae8a5bda47a2abac292ba5d3b, type: 3}
+  - {fileID: 2515576297457037910, guid: 4020838ae8a5bda47a2abac292ba5d3b, type: 3}
+  - {fileID: 2254597160482019287, guid: 4020838ae8a5bda47a2abac292ba5d3b, type: 3}
+  - {fileID: 8635123900315274053, guid: 4020838ae8a5bda47a2abac292ba5d3b, type: 3}
+  - {fileID: 4815666043623338020, guid: 4020838ae8a5bda47a2abac292ba5d3b, type: 3}
+  - {fileID: 8657518732384054131, guid: 4020838ae8a5bda47a2abac292ba5d3b, type: 3}
+  - {fileID: 21300000, guid: 8e70c2aa8f8e2574f91197e797a8220a, type: 3}
+  - {fileID: 21300000, guid: 5db26f2cd0d1a984fa98c52359dbc2e3, type: 3}
+  - {fileID: 1230888676982501851, guid: 22e76cbe33ac3f3409fcfe0c65233fcb, type: 3}
+  - {fileID: 6051887719750176620, guid: 22e76cbe33ac3f3409fcfe0c65233fcb, type: 3}
+  - {fileID: 689283645380311244, guid: 22e76cbe33ac3f3409fcfe0c65233fcb, type: 3}
+  - {fileID: -8505455023878367678, guid: 22e76cbe33ac3f3409fcfe0c65233fcb, type: 3}
+  - {fileID: -854100238237632227, guid: 22e76cbe33ac3f3409fcfe0c65233fcb, type: 3}
+  - {fileID: -2156744897565133147, guid: 22e76cbe33ac3f3409fcfe0c65233fcb, type: 3}
+  - {fileID: -2833390591846474745, guid: 22e76cbe33ac3f3409fcfe0c65233fcb, type: 3}
+  - {fileID: 5956900105284652418, guid: 22e76cbe33ac3f3409fcfe0c65233fcb, type: 3}
+  - {fileID: -4025454033673492792, guid: 22e76cbe33ac3f3409fcfe0c65233fcb, type: 3}
+  - {fileID: -4277862926615721614, guid: 22e76cbe33ac3f3409fcfe0c65233fcb, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - colors_2
+  - colors_3
+  - colors_0
+  - colors_1
+  - colors_6
+  - colors_7
+  - colors_4
+  - colors_5
+  - Floppa Caco
+  - Poggy Lips
+  - sunset_8
+  - sunset_9
+  - sunset_0
+  - sunset_1
+  - sunset_2
+  - sunset_3
+  - sunset_4
+  - sunset_5
+  - sunset_6
+  - sunset_7
+  m_RenderDataMap: {}
+  m_Tag: atlas
+  m_IsVariant: 0
