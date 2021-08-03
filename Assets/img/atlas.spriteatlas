@@ -33,12 +33,25 @@ SpriteAtlas:
     packables:
     - {fileID: 102900000, guid: 4d2fd80066924a840a49d14cc7fbad54, type: 3}
     - {fileID: 102900000, guid: 77491be805a4f404d8b03495c4e332ca, type: 3}
-    totalSpriteSurfaceArea: 205392
+    totalSpriteSurfaceArea: 208008
     bindAsDefault: 1
     isAtlasV2: 0
     cachedData: {fileID: 0}
   m_MasterAtlas: {fileID: 0}
   m_PackedSprites:
+  - {fileID: -8822197890823014927, guid: d021dcb07e842da4da6fb61dbbf2060e, type: 3}
+  - {fileID: -6926779638584956161, guid: d021dcb07e842da4da6fb61dbbf2060e, type: 3}
+  - {fileID: 1056820052326595571, guid: d021dcb07e842da4da6fb61dbbf2060e, type: 3}
+  - {fileID: -5196301219575938653, guid: d021dcb07e842da4da6fb61dbbf2060e, type: 3}
+  - {fileID: 2389239691497732581, guid: d021dcb07e842da4da6fb61dbbf2060e, type: 3}
+  - {fileID: -6046732817449692747, guid: d021dcb07e842da4da6fb61dbbf2060e, type: 3}
+  - {fileID: -815673460642091161, guid: d021dcb07e842da4da6fb61dbbf2060e, type: 3}
+  - {fileID: -7108296285890454563, guid: f717f273f0249b54e934448140cf9c22, type: 3}
+  - {fileID: 8407315904766117555, guid: f717f273f0249b54e934448140cf9c22, type: 3}
+  - {fileID: 5071707459650979125, guid: f717f273f0249b54e934448140cf9c22, type: 3}
+  - {fileID: -8765227194550229492, guid: f717f273f0249b54e934448140cf9c22, type: 3}
+  - {fileID: 2333585311781156109, guid: f717f273f0249b54e934448140cf9c22, type: 3}
+  - {fileID: 6629474056045604816, guid: f717f273f0249b54e934448140cf9c22, type: 3}
   - {fileID: 8081349633991729370, guid: 4020838ae8a5bda47a2abac292ba5d3b, type: 3}
   - {fileID: 5102608702023362459, guid: 4020838ae8a5bda47a2abac292ba5d3b, type: 3}
   - {fileID: 3565401892052505685, guid: 4020838ae8a5bda47a2abac292ba5d3b, type: 3}
@@ -60,6 +73,19 @@ SpriteAtlas:
   - {fileID: -4025454033673492792, guid: 22e76cbe33ac3f3409fcfe0c65233fcb, type: 3}
   - {fileID: -4277862926615721614, guid: 22e76cbe33ac3f3409fcfe0c65233fcb, type: 3}
   m_PackedSpriteNamesToIndex:
+  - ShipSprite_3
+  - ShipSprite_2
+  - ShipSprite_1
+  - ShipSprite_0
+  - ShipSprite_6
+  - ShipSprite_5
+  - ShipSprite_4
+  - Worldtiles_1
+  - Worldtiles_0
+  - Worldtiles_3
+  - Worldtiles_2
+  - Worldtiles_5
+  - Worldtiles_4
   - colors_2
   - colors_3
   - colors_0
